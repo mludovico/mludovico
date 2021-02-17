@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Flutter Video player and images carousel app**
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **Kotlin, React, Angular**
 
 - 👯 I’m looking to collaborate on **flutter and flutter plugins**
 
