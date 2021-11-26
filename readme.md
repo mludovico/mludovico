@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
-<h3 align="center">Web and mobile Engineer | Experienced PHP, Flutter and C# developer | Flutter Enthusiast | OS agnostic</h3>
+<h3 align="center">Web and mobile Engineer | been through C# and .NET Core | scratch some JavaScript, python and PHP | knows about infrasctructure topics that surounds software development | OS agnostic</h3>
 
-- 🔭 I’m currently working on **A Flutter Video player and images carousel app**
+- 🔭 I’m currently working on **A Flutter book reader app which reads PDFs, ePUBs and Audiobooks**
 
-- 🌱 I’m currently learning **Kotlin, React, Angular**
+- 🌱 I’m currently learning **CI/CD for mobile platforms**
 
 - 👯 I’m looking to collaborate on **flutter and flutter plugins**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://marcelo-ludovico.web.app](https://marcelo-ludovico.web.app)
 
-- ⚡ Fun fact **I used to be a musician (Guitar)**
+- ⚡ Fun fact **I used to be a musician (Guitarist)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
